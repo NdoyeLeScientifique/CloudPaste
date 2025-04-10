@@ -1,4 +1,3 @@
-```markdown
 # 🌥️ CloudPaste: Your Online Clipboard & File Sharing Service
 
 Welcome to CloudPaste! This project offers a seamless online clipboard and file sharing service powered by Cloudflare Workers. Enjoy features such as Markdown support, self-destructing files, text and large file sharing, and password protection. 
@@ -116,4 +115,3 @@ If you like this project, consider supporting it by starring the repository or s
 Thank you for checking out CloudPaste! We hope you enjoy using our online clipboard and file sharing service. Your feedback is invaluable in making it better.
 
 ![Thank You](https://img.shields.io/badge/Thank%20You%20For%20Your%20Support-orange?style=for-the-badge)
-```
